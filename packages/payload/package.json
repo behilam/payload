@@ -1,5 +1,5 @@
 {
-  "name": "payload",
+  "name": "payload-eo",
   "version": "2.16.1",
   "description": "Node, React and MongoDB Headless CMS and Application Framework",
   "license": "MIT",
@@ -266,11 +266,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/payloadcms/payload.git",
+    "url": "https://github.com/behilam/payload.git",
     "directory": "packages/payload"
   },
   "bugs": {
-    "url": "https://github.com/payloadcms/payload"
+    "url": "https://github.com/behilam/payload"
   },
   "sideEffects": false
 }
